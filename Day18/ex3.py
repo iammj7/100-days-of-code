@@ -4,9 +4,10 @@ import random
 
 
 tim = t.Turtle()
+
+
 tim.pensize(15)
 tim.speed(0)
-
 colors = [
     "CornflowerBlue",
     "DarkOrchid",
@@ -17,7 +18,6 @@ colors = [
     "SlateGray",
     "SeaGreen",
 ]
-
 directions = [0, 90, 180, 270]
 
 for _ in range(200):
