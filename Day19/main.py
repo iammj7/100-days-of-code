@@ -1,6 +1,5 @@
-from turtle import Turtle, Screen, forward
+from turtle import Turtle, Screen
 import random
-import turtle
 
 
 is_race_on = False
